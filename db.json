@@ -1,0 +1,54 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "name": "Spicy Arrabiata Penne",
+      "image": "https://www.themealdb.com/images/media/meals/ustsqw1468250014.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Strawberry Rhubarb Pie",
+      "image": "https://www.themealdb.com/images/media/meals/178z5o1585514569.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Chicken Handi",
+      "image": "https://www.themealdb.com/images/media/meals/wyxwsp1486979827.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Pancakes",
+      "image": "https://www.themealdb.com/images/media/meals/rwuyqx1511383174.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Chocolate Gateau",
+      "image": "https://www.themealdb.com/images/media/meals/tqtywx1468317395.jpg"
+    },
+    {
+      "id": "282b",
+      "name": "Rappie Pie",
+      "image": "https://www.themealdb.com/images/media/meals/ruwpww1511817242.jpg"
+    },
+    {
+      "id": "f427",
+      "name": "Timbits",
+      "image": "https://www.themealdb.com/images/media/meals/txsupu1511815755.jpg"
+    },
+    {
+      "id": "69a1",
+      "name": "Breakfast Potatoes",
+      "image": "https://www.themealdb.com/images/media/meals/1550441882.jpg"
+    },
+    {
+      "id": "cabb",
+      "name": "Montreal Smoked Meat",
+      "image": "https://www.themealdb.com/images/media/meals/uttupv1511815050.jpg"
+    },
+    {
+      "id": "1fa0",
+      "name": "Pate Chinois",
+      "image": "https://www.themealdb.com/images/media/meals/yyrrxr1511816289.jpg"
+    }
+  ]
+}

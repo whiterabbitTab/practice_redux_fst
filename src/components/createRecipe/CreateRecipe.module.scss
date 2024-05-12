@@ -1,0 +1,15 @@
+.create_recipe {
+    @apply flex items-start gap-5 flex-col;
+
+    label > input {
+        @apply transition-all h-9 duration-300 border-0 px-2 py-1 font-bold text-pink-600 placeholder:text-teal-500 outline-none rounded-lg bg-gray-500 bg-opacity-15;
+    }
+
+    input:focus {
+        @apply border-0 outline-none bg-opacity-25;
+    }
+
+    button {
+        @apply text-center px-3 py-1 bg-pink-600 rounded-lg w-24 h-10 font-semibold -tracking-tighter text-lg;
+    }
+}
