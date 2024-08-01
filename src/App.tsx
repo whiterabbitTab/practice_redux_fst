@@ -5,6 +5,7 @@ import { Header } from './components/Header/Header'
 import { User } from './components/userComp/User';
 import { useGetRecipesQuery } from './store/api/Api';
 import { CreateRecipe } from './components/createRecipe/CreateRecipe';
+import { Nigger } from './components/nigger/Nigger';
 
 const userId = 1
 
@@ -26,26 +27,12 @@ function App() {
             recipe={recipe}
             />
           ) : <div>Not Found  </div>}
-        {/* <RecipeItem recipe={{ --->> фууу
-          name: 'Strawberry',
-          id: 1,
-          }}
-        />
-        <RecipeItem recipe={{ 
-          name: 'Cherry',
-          id: 2,
-          }}
-        />
-        <RecipeItem recipe={{ 
-          name: 'PineApple',
-          id: 3,
-          }}
-        /> */}
       </div>
       <User></User>
       <div>
         {}
       </div>
+      <Nigger />
     </section>
   );
 }
